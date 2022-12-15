@@ -16,7 +16,7 @@
                         </li>
                         <li>
                             <h6><i class="fa fa-phone fa-fw" aria-hidden="true"></i> No Telp</h6>
-                            <h6>+1 123 321 456 654</h6>
+                            <h6>+62-825-7555-9900 </h6>
                         </li>
                         <li>
                             <h6><i class="fa fa-envelope fa-fw" aria-hidden="true"></i> Email</h6>
@@ -24,7 +24,7 @@
                         </li>
                         <li>
                             <h6><i class="fa fa-map-pin fa-fw" aria-hidden="true"></i> Alamat</h6>
-                            <h6>Berlin,Germany</h6>
+                            <h6>Jakarta, Indonesia</h6>
                         </li>
                     </ul>
                 </div>
